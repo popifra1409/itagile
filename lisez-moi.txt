@@ -25,3 +25,7 @@ https://docs.plesk.com/en-US/search/?q=How+to+use+Git&b=administrator-guide&v=on
 
 7-lien vers les redistrubuables visual c++
 http://wampserver.aviatechno.net/?lang=fr&prerequis=afficher
+
+8- compte git:
+user name: popifra1409
+user email: porio.peyie@gmail.com

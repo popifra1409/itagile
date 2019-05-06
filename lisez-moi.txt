@@ -1,0 +1,27 @@
+1- lien vers vscode
+ https://code.visualstudio.com/download
+ https://code.visualstudio.com
+
+2- lien antivirus totalAV
+https://antivirustest.de.com/
+
+3- Accès backend TPGEB
+https://tpgeb.com/auth0/login
+Username : admin@tpgec.dev
+
+Password: Admin
+
+4- Accès serveur plesk
+
+https://h2793840.stratoserver.net:8443/
+
+utilisateur: root
+password:cMR9jw82
+
+5- Accès webmail
+
+6- lien tutorial plesk
+https://docs.plesk.com/en-US/search/?q=How+to+use+Git&b=administrator-guide&v=onyx&m=all
+
+7-lien vers les redistrubuables visual c++
+http://wampserver.aviatechno.net/?lang=fr&prerequis=afficher
